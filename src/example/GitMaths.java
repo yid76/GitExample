@@ -2,11 +2,36 @@ package example;
 
 public class GitMaths {
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public subtract() {
 		
-		int total = 5 - 2;
+		int total = num2 - num1;
 		
-		System.out.println("The total is " + total);
+		System.out.println("Total is " + total);
 	}
 
 }
